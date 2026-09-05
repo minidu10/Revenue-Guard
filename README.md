@@ -143,3 +143,6 @@ and rebuild the image together.
 IBM Telco Customer Churn, 7043 rows, 21 columns. `TotalCharges` is stored as text
 with 11 blank values; those are coerced to numeric and filled with 0.0.
 `customerID` is dropped.
+
+## Live demo
+https://revenue-guard-production.up.railway.app/docs
