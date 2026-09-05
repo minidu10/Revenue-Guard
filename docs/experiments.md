@@ -10,3 +10,8 @@ recall:0.783
 precision:0.504
 accuracy:0.738
 Notes:
+
+Threshold	Recall	Precision	Missed leavers(fn)	False alarms (fp)
+0.6	        0.706	0.540	    110	                225
+0.5	        0.783	0.504	    81	                288
+0.4	        0.866	0.466	    50	                371
